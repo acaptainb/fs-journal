@@ -3,7 +3,7 @@
     > | ANSWER HERE |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > |Answer here|
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
@@ -12,7 +12,7 @@
     > | ANSWER HERE |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | I don't know|
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
