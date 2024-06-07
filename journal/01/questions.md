@@ -25,7 +25,7 @@
     > | they'r selector,property and value. |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | User-friendly website creates a good impression customers, increase conversions, and provide an enjoyable user experience. |
+    > | User-friendly website creates a good impression on customers and provides an enjoyable user experience. |
 
 08. What is the purpose of ***wireframing***?
     > | Wire-framing is just skeleton of functional web-page, before styling or any designs |
