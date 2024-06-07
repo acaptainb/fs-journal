@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+Everything.This week went way better than I expected.In my previous web development course I learned exact same thing in 3 month.
 - What did you learn that was a shock or surprise?
+mdi icons spinning
 - What are you struggling with?
+d-flex
 - What would you count as a victory?
+using bootstrap
