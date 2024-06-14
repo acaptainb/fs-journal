@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+Monday and Tuesday I didn't understand anything.Then it starting to make sense. lol. 
 - What did you learn that was a shock or surprise?
+marquee
 - What are you struggling with?
+javascript forEach 
 - What would you count as a victory?
+my own javascript codes are actually working lol

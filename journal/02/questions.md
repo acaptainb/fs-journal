@@ -10,10 +10,10 @@
 03. What are the `SOLID` principles?
 
     > |S — Single responsibility principle
->O — Open closed principle
->I — Interface segregation principle
->D — Dependency Inversion principle |
->L — Liskov substitution principle
+O — Open closed principle
+I — Interface segregation principle
+D — Dependency Inversion principle |
+L — Liskov substitution principle
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -39,7 +39,7 @@
     ```
 
     > | you.friends.push('SmT')
-    > them.friends.push('Smt')|
+    them.friends.push('Smt')|
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -55,12 +55,12 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > |Using debugger |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | Primitives are strings, Numbers, Booleans, Undefined or Null and reference values are arrays stored in a object. |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for (let i = -100; i < 101; i+=) { console.log(i) |
