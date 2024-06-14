@@ -44,10 +44,10 @@
 06. Give an example of a JavaScript `Conditional`:
 
     > | if(Checkpoint-2 == Easy) {
-    >       return "Thank you"
-    >} else {
-     > return "How could you"  
-    >}|
+           return "Thank you"
+    } else {
+      return "How could you"  
+    }|
 
 07. What is the main difference between `parameters` and `arguments`?
 
