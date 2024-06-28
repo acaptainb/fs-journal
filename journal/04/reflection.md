@@ -3,6 +3,9 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
+async and await
 - What would you count as a victory?
+finally understand get, post, delete,put
