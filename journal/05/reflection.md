@@ -3,6 +3,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+monday and tuesday went no good bud after tutor session I started to understand better
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
