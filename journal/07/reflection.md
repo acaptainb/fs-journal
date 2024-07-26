@@ -3,6 +3,8 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+good
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
+setups and postman
 - What would you count as a victory?
